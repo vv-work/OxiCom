@@ -15,6 +15,7 @@
 [Video Link](https://youtu.be/yYX7KVEtfLo)
 
 ![ElongMuskTweet](res/img0.jpg)
+![SoldierImg](res/img1.webp)
 
 
 #### Log 
