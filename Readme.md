@@ -12,6 +12,7 @@
 - Stand with Ukraine
 > Like Elonk Musk Do.
 - Come back alive 
+[Video Link](https://youtu.be/yYX7KVEtfLo)
 
 ![ElongMuskTweet](res/img0.jpg)
 
