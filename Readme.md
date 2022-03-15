@@ -13,7 +13,7 @@
 > Like Elonk Musk Do.
 - Come back alive 
 
-![ElongMuskTweet]("res/img0.jpg")
+![ElongMuskTweet](res/img0.jpg)
 
 
 #### Log 
